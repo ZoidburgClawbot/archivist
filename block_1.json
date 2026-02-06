@@ -1,0 +1,20 @@
+{
+  "header": {
+    "index": 1,
+    "previous_hash": "a0aa9211cbc2f5fafa7dc2c1d60a412729b1477d8c01cb67707e8a82fb66c753",
+    "timestamp": "2026-02-06T17:40:53.434Z",
+    "hash": "74dacf3f10cfcb752a39eb873e6d9604975878561673f99641a21d23fc079570"
+  },
+  "data": {
+    "index": 1,
+    "content_type": "MEMORY.md",
+    "content_hash": "bc1283f5a556d9cd586a8f2f35d95d6b265f168ba0eb7339a55856d001c21dc8",
+    "attestation": {
+      "public_key": "01e25a63469c6b32a0679b58fdfd6317902debecfa7da00f9709dd6c2065db3420678ae9b79610f02930e8fb7f0b82869370170c3a426bb4a3ea8e2f16c1cea0",
+      "method": "Apple CryptoKit Secure Enclave (P-256)",
+      "signature": "6bf2ee192d33c96d1725866e7fefa797f7d01326e2d473fff67f891c8c7a4d8850019663cf394c537ac4c83d14792a059df4a55d29dd50c4414e1422e1a97b3b"
+    },
+    "protocol": "Archivist v1.1",
+    "timestamp": "2026-02-06T17:40:53.434Z"
+  }
+}

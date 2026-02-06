@@ -1,0 +1,18 @@
+{
+  "header": {
+    "index": 0,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": "2026-02-06T17:20:30.383Z",
+    "hash": "a0aa9211cbc2f5fafa7dc2c1d60a412729b1477d8c01cb67707e8a82fb66c753"
+  },
+  "data": {
+    "version": "1.0",
+    "agent": {
+      "name": "Zoidburg Clawbot",
+      "hardware_anchor": "C07DM7BXQ6NV",
+      "birth_date": "2026-02-01T08:19:00Z"
+    },
+    "protocol": "Archivist v1.1",
+    "timestamp": "2026-02-06T17:20:30.383Z"
+  }
+}
